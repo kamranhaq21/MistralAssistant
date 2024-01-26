@@ -17,7 +17,7 @@ with st.sidebar:
 
 
 st.title("💬 Chatbot")
-st.caption("🚀 An Embedchain app powered by Mistral!")
+st.caption("🚀 AutoGen AI Bot powered by Autosphere!")
 if "messages" not in st.session_state:
     st.session_state.messages = [
         {
